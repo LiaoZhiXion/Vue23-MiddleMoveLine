@@ -1,7 +1,7 @@
 # Vue23-MiddleMoveLine
 同时支持vue2、vue3的中线分割组件，可以实现拖动的效果
 
-部分灵感借鉴于这个组件（但不是抄袭，已重写并支持vue2/vue3）：[Vue Split Pane](https://github.com/PanJiaChen/vue-split-pane)
+和这个组件实现功能一致（但支持vue2/vue3）：[Vue Split Pane](https://github.com/PanJiaChen/vue-split-pane)
 
 ![演示图](https://img-blog.csdnimg.cn/919d9f806d164c7cb6da656e4117eca8.gif)
 
@@ -13,7 +13,7 @@
 npm install -D sass 
 ```
 
-1. 将组件代码复制到你的项目组件内即可使用
+1. 将组件代码复制到你的项目组件内即可使用\
 不需要获得授权，请尽情div|自定义
 
 
