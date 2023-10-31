@@ -36,19 +36,19 @@ App.vue
     <template v-slot:paneA>
       <div style="background-color: #5ee012;width: 100%;height: 100%;font-size: 50px">我是第一个panA</div>
     </template>
-
+    
     <template v-slot:paneB>
-
+    
       <MiddleMoveLine direction="y" :safe-distance="[50,50]" :percent-a="60">
         <template v-slot:paneA>
-          <div style="background-color: #c512e0;width: 100%;height: 100%;font-size: 50px">我是第二个panA</div>
+          <div style="background-color: #000000;width: 100%;height: 100%;font-size: 50px;color: white">我是第二个panA</div>
         </template>
-
+    
         <template v-slot:paneB>
-          <div style="background-color: #c70b2c;width: 100%;height: 100%;font-size: 50px">我是第二个panB</div>
-
+          <div style="background-color: #ffffff;width: 100%;height: 100%;font-size: 50px;">我是第二个panB</div>
+    
         </template>
       </MiddleMoveLine>
     </template>
-  </MiddleMoveLine>
+</MiddleMoveLine>
 ```
