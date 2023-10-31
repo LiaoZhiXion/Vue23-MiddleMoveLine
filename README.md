@@ -3,6 +3,9 @@
 
 部分灵感借鉴于这个组件（但不是抄袭，已重写并支持vue2/vue3）：[Vue Split Pane](https://github.com/PanJiaChen/vue-split-pane)
 
+![演示图](https://img-blog.csdnimg.cn/919d9f806d164c7cb6da656e4117eca8.gif)
+
+
 # usage|使用方法：
 
 特殊：vue3可能需要安装 scss---> 
