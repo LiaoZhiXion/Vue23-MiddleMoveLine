@@ -3,7 +3,7 @@
 
 和这个组件实现功能一致（但支持vue2/vue3）：[Vue Split Pane](https://github.com/PanJiaChen/vue-split-pane)
 
-![演示图](https://img-blog.csdnimg.cn/919d9f806d164c7cb6da656e4117eca8.gif)
+![演示图](https://img-blog.csdnimg.cn/69a63c9a78aa40a697dc766a4fd63c69.gif)
 
 
 # usage|使用方法：
